@@ -18,7 +18,7 @@ We belive that people learn best by actually getting down and dirty. Today is th
 
 1. Decide on Team name and then fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSfA8RnoSp6CX1Y3Esev7iOrbFd7cPOpe54nGlElK7331VT5Vg/viewform) to recive the auth key needed to push model to out webbapp.
 
-2. Open Notbook for tonights event & make a copy of it for you team. It's possible to work at same notbook from multiple computers if shared.
+2. Open Notbook for tonights event & **make a copy** of it for you team. _It's possible to work at same notbook from multiple computers if shared_.  Link to notebook: [https://colab.research.google.com/drive/1-bGQenOf0zZMegVdyh5Z8DkeBU_7bos3](https://colab.research.google.com/drive/1-bGQenOf0zZMegVdyh5Z8DkeBU_7bos3) 
 
 3. Work as a team, paus for 5 min every 30 min to discuss current status, what is beeing done and why it matters. 
 
