@@ -2,9 +2,17 @@
 
 Here you find instructions and relevant information for the event. Don't hesitate to reach out organizers.
 
-### Setup
+Feel free to jump in on our event [Slack channel](https://join.slack.com/t/warsawdeeplea-lin3168/shared_invite/enQtNzY3NTE5MTU0NjI5LTljMGY4MmIwODNiNDYwZGIzMzAxNDE3YTVjODdmN2U3NTdkMzQwMjYyOWFjODUzMjIyMWNhOGExZDc2ZDc0NzQ) 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Approche 
+We belive that people learn best by actually getting down and dirty.  
+Today is the first mini hackaton event
+
+
+### Instructions
+
+1. Come up with a Team name
+2. Fill in Team name and 
 
 ```markdown
 Syntax highlighted code block
