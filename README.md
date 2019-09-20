@@ -4,7 +4,7 @@ Here you find instructions and relevant information for the event. Don't hesitat
 
 Feel free to jump in on our event [Slack channel](https://join.slack.com/t/warsawdeeplea-lin3168/shared_invite/enQtNzY3NTE5MTU0NjI5LTljMGY4MmIwODNiNDYwZGIzMzAxNDE3YTVjODdmN2U3NTdkMzQwMjYyOWFjODUzMjIyMWNhOGExZDc2ZDc0NzQ) where @Marek & @M are avalible to answer questions and help out with issues.
 
-### Aproach
+### Approach
 We believe that people learn best by actually getting down and dirty. Today is the first mini hackaton event and the mission is to build an image classification model using **Artificial neural network** 
 
 ### Technologies 
