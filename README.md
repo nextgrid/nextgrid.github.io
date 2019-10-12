@@ -11,7 +11,7 @@
  #############################################
 ```
 
-# Welcome to Warsaw Deep Learning Labs Episode #2
+# Warsaw Deep Learning Labs Episode #2
 
 Here you will find instructions and relevant information for the event. Don't hesitate to reach out organizers with any kind of questions.
 
