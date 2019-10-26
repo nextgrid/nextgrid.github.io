@@ -29,6 +29,7 @@ We believe that people learn best by actually getting down and dirty. Today is t
 ### Instructions
 
 1. Work as a team, pause for 5 min every 30 min to discuss current status, what is being done and why it matters. 
+2. Read http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching_files/intro_RL.pdf
 
 ### Rules
 
@@ -36,7 +37,30 @@ We believe that people learn best by actually getting down and dirty. Today is t
 2. BipedalWalker-v2 Hardcore average reward over 100 consecutive episodes
 
 
+```
+import gym
 
+from stable_baselines.common.policies import MlpPolicy
+from stable_baselines.common.vec_env import DummyVecEnv
+from stable_baselines import PPO2
+
+# Create the environment
+env = gym.make('BipedalWalker-v2')
+env = DummyVecEnv([lambda: env])  # The algorithms require a vectorized environment to run
+
+# Define the model
+model = PPO2(MlpPolicy, env, verbose=1, tensorboard_log="./ppo_bipedal_tensorboard/")
+
+# Train the agent
+model.learn(total_timesteps=25000)
+
+# After training, watch our agent walk
+obs = env.reset()
+for i in range(1000):
+    action, _states = model.predict(obs)
+    obs, rewards, dones, info = env.step(action)
+    env.render()
+```
 
 
 
