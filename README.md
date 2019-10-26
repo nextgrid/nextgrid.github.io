@@ -36,6 +36,10 @@ We believe that people learn best by actually getting down and dirty. Today is t
 1. BipedalWalker-v2 average reward over 100 consecutive episodes.  If avarage of 300 is reached go to #2
 2. BipedalWalker-v2 Hardcore average reward over 100 consecutive episodes
 
+```
+apt-get install swig cmake libopenmpi-dev zlib1g-dev ffmpeg freeglut3-dev 
+xvfb
+```
 
 ```
 import gym
@@ -61,6 +65,7 @@ for i in range(1000):
     obs, rewards, dones, info = env.step(action)
     env.render()
 ```
+
 
 
 
