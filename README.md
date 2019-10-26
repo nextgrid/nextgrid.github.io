@@ -23,13 +23,13 @@ We believe that people learn best by actually getting down and dirty. Today is t
 ### Technologies 
 
 1. Use technology of your coice 
-2. We recommend checking out https://github.com/hill-a/stable-baselines
+2. We recommend checking out [https://github.com/hill-a/stable-baselines](https://github.com/hill-a/stable-baselines)
 
 
 ### Instructions
 
 1. Work as a team, pause for 5 min every 30 min to discuss current status, what is being done and why it matters. 
-2. Read http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching_files/intro_RL.pdf
+2. Read [http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching_files/intro_RL.pdf](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching_files/intro_RL.pdf)
 
 ### Rules
 
