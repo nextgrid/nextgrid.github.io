@@ -15,7 +15,7 @@
 
 Here you will find instructions and relevant information for the event. Don't hesitate to reach out organizers with any kind of questions.
 
-Feel free to jump in on our event [Slack channel](https://join.slack.com/t/warsawdeeplea-lin3168/shared_invite/enQtNzY3NTE5MTU0NjI5LTljMGY4MmIwODNiNDYwZGIzMzAxNDE3YTVjODdmN2U3NTdkMzQwMjYyOWFjODUzMjIyMWNhOGExZDc2ZDc0NzQ) where @Marek & @M are avalible to answer questions and help out with issues.
+Feel free to jump in on our event [Slack channel](https://join.slack.com/t/warsawdeeplea-lin3168/shared_invite/enQtODEyMjA1NTE1NjA3LWQ0Y2Q2OGUwNzBmMjljMDA1NGZmMWFmZTEzZWRkZjlkOTQ1YTQ4OTI4MzdhMDBmNjhmOWEyZDkzNDQ4MTQ5Njg) where @Marek & @M are avalible to answer questions and help out with issues.
 
 ### Approach
 We believe that people learn best by actually getting down and dirty. Today is the third mini hackaton event and the mission is to build a BipedalWalker-v2. We recommend looking at 
