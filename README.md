@@ -30,6 +30,7 @@ We believe that people learn best by actually getting down and dirty. Today is t
 
 1. Work as a team, pause for 5 min every 30 min to discuss current status, what is being done and why it matters. 
 2. Base code [colab](https://colab.research.google.com/drive/1GbQaE3OEXT2-lM34Z0kVnApXDJj0BjBa#scrollTo=gUiEhMrqnnLC)
+https://colab.research.google.com/drive/1GbQaE3OEXT2-lM34Z0kVnApXDJj0BjBa#scrollTo=gUiEhMrqnnLC
 
 
 
