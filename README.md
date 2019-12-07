@@ -23,7 +23,7 @@ We believe that people learn best by actuall code grinding. Today is the fifth m
 ### Technologies 
 
 1. Use technology of your coice 
-2. We recommend checking out [https://github.com/hill-a/stable-baselines](https://github.com/hill-a/stable-baselines)
+2. We recommend checking out [https://stable-baselines.readthedocs.io/](https://stable-baselines.readthedocs.io/)
 
 
 ### Instructions
