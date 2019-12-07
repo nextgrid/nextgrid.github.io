@@ -4,7 +4,7 @@
  # . | | /| / / _ \/ /  / /     
  # . | |/ |/ / // / /__/ /__    
  # . |__/|__/____/____/____/    
- # .  S01E04 by Nextgrid.ai 👾
+ # .  S01E05 by Nextgrid.ai 👾
  #############################################    
  # Reinforcement learning 
  # OpenAI gym, Stable-baselines Tensorflow and Keras
@@ -18,7 +18,7 @@ Here you will find instructions and relevant information for the event. Don't he
 Feel free to jump in on our event [Slack channel](https://join.slack.com/t/warsawdeeplea-lin3168/shared_invite/enQtODEyMjA1NTE1NjA3LWQ0Y2Q2OGUwNzBmMjljMDA1NGZmMWFmZTEzZWRkZjlkOTQ1YTQ4OTI4MzdhMDBmNjhmOWEyZDkzNDQ4MTQ5Njg) where @Marek & @M are avalible to answer questions and help out with issues.
 
 ### Approach
-We believe that people learn best by actually getting down and dirty. Today is the fourth mini hackaton event and the mission is to build a Lunar Lander. We recommend looking at https://stable-baselines.readthedocs.io/
+We believe that people learn best by actuall code grinding. Today is the fifth mini hackaton event and the mission is to solve Bipedalwalker-V2 & Bipedalwalker Hardcore. read docs at https://stable-baselines.readthedocs.io/
 
 ### Technologies 
 
@@ -31,6 +31,17 @@ We believe that people learn best by actually getting down and dirty. Today is t
 1. Work as a team, pause for 5 min every 30 min to discuss current status, what is being done and why it matters. 
 2. Base code [colab](https://colab.research.google.com/drive/1GbQaE3OEXT2-lM34Z0kVnApXDJj0BjBa#scrollTo=gUiEhMrqnnLC)
 https://colab.research.google.com/drive/1GbQaE3OEXT2-lM34Z0kVnApXDJj0BjBa#scrollTo=gUiEhMrqnnLC
+
+### Material 
+1. https://github.com/openai/gym/wiki/BipedalWalker-v2
+2. https://towardsdatascience.com/teach-your-ai-how-to-walk-5ad55fce8bca
+3. https://gym.openai.com/envs/BipedalWalker-v2/
+4. https://github.com/openai/gym/wiki/Leaderboard  
+
+
+### How we messure results 
+ https://github.com/openai/gym/wiki/Leaderboard  
+
 
 
 
