@@ -11,7 +11,7 @@
  #############################################
 ```
 
-# Warsaw Deep Learning Labs Episode #4
+# Warsaw Deep Learning Labs Episode #5
 
 Here you will find instructions and relevant information for the event. Don't hesitate to reach out organizers with any kind of questions.
 
@@ -29,8 +29,7 @@ We believe that people learn best by actuall code grinding. Today is the fifth m
 ### Instructions
 
 1. Work as a team, pause for 5 min every 30 min to discuss current status, what is being done and why it matters. 
-2. Base code [colab](https://colab.research.google.com/drive/1GbQaE3OEXT2-lM34Z0kVnApXDJj0BjBa#scrollTo=gUiEhMrqnnLC)
-https://colab.research.google.com/drive/1GbQaE3OEXT2-lM34Z0kVnApXDJj0BjBa#scrollTo=gUiEhMrqnnLC
+
 
 ### Material 
 1. https://github.com/openai/gym/wiki/BipedalWalker-v2
