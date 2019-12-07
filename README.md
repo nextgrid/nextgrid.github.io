@@ -18,7 +18,7 @@ Here you will find instructions and relevant information for the event. Don't he
 Feel free to jump in on our event [Slack channel](https://join.slack.com/t/warsawdeeplea-lin3168/shared_invite/enQtODEyMjA1NTE1NjA3LWQ0Y2Q2OGUwNzBmMjljMDA1NGZmMWFmZTEzZWRkZjlkOTQ1YTQ4OTI4MzdhMDBmNjhmOWEyZDkzNDQ4MTQ5Njg) where @Marek & @M are avalible to answer questions and help out with issues.
 
 ### Approach
-We believe that people learn best by actuall code grinding. Today is the fifth mini hackaton event and the mission is to solve Bipedalwalker-V2 & Bipedalwalker Hardcore. read docs at https://stable-baselines.readthedocs.io/
+We believe that people learn best by actuall code grinding. Today is the fifth mini hackaton event and the mission is to solve Bipedalwalker-V2 & Bipedalwalker Hardcore. read docs at [https://stable-baselines.readthedocs.io/](https://stable-baselines.readthedocs.io/)
 
 ### Technologies 
 
@@ -32,14 +32,14 @@ We believe that people learn best by actuall code grinding. Today is the fifth m
 
 
 ### Material 
-1. https://github.com/openai/gym/wiki/BipedalWalker-v2
-2. https://towardsdatascience.com/teach-your-ai-how-to-walk-5ad55fce8bca
-3. https://gym.openai.com/envs/BipedalWalker-v2/
-4. https://github.com/openai/gym/wiki/Leaderboard  
+1. [https://github.com/openai/gym/wiki/BipedalWalker-v2](https://github.com/openai/gym/wiki/BipedalWalker-v2)
+2. [https://towardsdatascience.com/teach-your-ai-how-to-walk-5ad55fce8bca](https://towardsdatascience.com/teach-your-ai-how-to-walk-5ad55fce8bca)
+3. [https://gym.openai.com/envs/BipedalWalker-v2/](https://gym.openai.com/envs/BipedalWalker-v2/)
+4. [https://github.com/openai/gym/wiki/Leaderboard](https://github.com/openai/gym/wiki/Leaderboard)
 
 
 ### How we messure results 
- https://github.com/openai/gym/wiki/Leaderboard  
+ [https://github.com/openai/gym/wiki/Leaderboard](https://github.com/openai/gym/wiki/Leaderboard)
 
 
 
