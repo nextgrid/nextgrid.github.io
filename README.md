@@ -29,6 +29,7 @@ We believe that people learn best by actuall code grinding. Today is the fifth m
 ### Instructions
 
 1. Work as a team, pause for 5 min every 30 min to discuss current status, what is being done and why it matters. 
+2. Link to working model without parameters tweaked: [https://colab.research.google.com/drive/12osEZByXOlGy8J-MSpkl3faObhzPGIrB](https://colab.research.google.com/drive/12osEZByXOlGy8J-MSpkl3faObhzPGIrB)
 
 
 ### Material 
