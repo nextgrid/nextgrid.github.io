@@ -10,7 +10,7 @@
  #############################################
 ```
 
-# Warsaw Deep Learning Labs Episode #5
+# Warsaw Deep Learning Labs Episode #6
 
 Here you will find instructions and relevant information for the event. Don't hesitate to reach out organizers with any kind of questions.
 
@@ -35,7 +35,7 @@ We believe that people learn best by actuall getting hands on. Today is the fift
 
 ### Notebooks
 Here is notebooks covering a couple of enviorments & algoritms and can be used as fundation.
- [Bipedalwalker-V2_TD3_Tensorboard]    (https://colab.research.google.com/drive/1Zyn9Q_Gf3KnVIhdl9t2ond5IjJNaTriL#scrollTo=9cQ_Nt7d1NOP&uniqifier=1)  
+ [Bipedalwalker-V2_TD3_Tensorboard](https://colab.research.google.com/drive/1Zyn9Q_Gf3KnVIhdl9t2ond5IjJNaTriL)  
  [Lunar-Lander_TD3_Tensorboard](https://colab.research.google.com/drive/1_ZndTOt88TuXG2imZLb3ylU2C3nH9T-i)    
  [Pendulum_TD3](https://colab.research.google.com/drive/1_UhnDQE8NgSYGpUEAj0xgYI8Qvh7a6HK)
 
