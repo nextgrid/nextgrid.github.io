@@ -9,6 +9,8 @@
  # Reinforcement learning 
  #############################################
 ```
+# SUBMIT RESULT ON THIS LINK 
+[https://docs.google.com/forms/d/e/1FAIpQLSeqkvS6fU6VbiEYE1IL505W_G4tdA1ko7qOaZUm238c9UjYgg/viewform](https://docs.google.com/forms/d/e/1FAIpQLSeqkvS6fU6VbiEYE1IL505W_G4tdA1ko7qOaZUm238c9UjYgg/viewform)
 
 # Warsaw Deep Learning Labs Episode #6
 
