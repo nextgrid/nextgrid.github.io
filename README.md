@@ -23,7 +23,7 @@ We believe that people learn best by actuall getting hands on. Today is the fift
 
 1. Use technology of your coice 
 2. We recommend checking out [https://stable-baselines.readthedocs.io/](https://stable-baselines.readthedocs.io/)
-3. We recommend using Google colab,  We can also provide up to 460 CPU's & 8 NVIDIA V100, P4, T4 etc.  
+3. We recommend using Google colab,  We can also provide up to **460 CPU's** & 8 NVIDIA **V100**, P4, T4 etc.  
 
 
 ### Instructions
