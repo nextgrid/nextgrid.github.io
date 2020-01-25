@@ -4,10 +4,9 @@
  # . | | /| / / _ \/ /  / /     
  # . | |/ |/ / // / /__/ /__    
  # . |__/|__/____/____/____/    
- # .  S01E05 by Nextgrid.ai 👾
+ # .  S01E06 by Nextgrid.ai 👾
  #############################################    
  # Reinforcement learning 
- # OpenAI gym, Stable-baselines Tensorflow and Keras
  #############################################
 ```
 
@@ -18,29 +17,36 @@ Here you will find instructions and relevant information for the event. Don't he
 Feel free to jump in on our event [Slack channel](https://join.slack.com/t/warsawdeeplea-lin3168/shared_invite/enQtODEyMjA1NTE1NjA3LWQ0Y2Q2OGUwNzBmMjljMDA1NGZmMWFmZTEzZWRkZjlkOTQ1YTQ4OTI4MzdhMDBmNjhmOWEyZDkzNDQ4MTQ5Njg) where @Marek & @M are avalible to answer questions and help out with issues.
 
 ### Approach
-We believe that people learn best by actuall code grinding. Today is the fifth mini hackaton event and the mission is to solve Bipedalwalker-V2 & Bipedalwalker Hardcore. read docs at [https://stable-baselines.readthedocs.io/](https://stable-baselines.readthedocs.io/)
+We believe that people learn best by actuall getting hands on. Today is the fifth mini hackaton event and the mission is to take over OpenAi Leaderboard 
 
 ### Technologies 
 
 1. Use technology of your coice 
 2. We recommend checking out [https://stable-baselines.readthedocs.io/](https://stable-baselines.readthedocs.io/)
+3. We recommend using Google colab,  We can also provide up to 460 CPU's & 8 NVIDIA V100, P4, T4 etc.  
 
 
 ### Instructions
 
-1. Work as a team, pause for 5 min every 30 min to discuss current status, what is being done and why it matters. 
-2. Link to working model without parameters tweaked: [https://colab.research.google.com/drive/12osEZByXOlGy8J-MSpkl3faObhzPGIrB](https://colab.research.google.com/drive/12osEZByXOlGy8J-MSpkl3faObhzPGIrB)
+1. Pick a enviorment at https://github.com/openai/gym/wiki/Leaderboard
+2. Work as a team, pause for 5 min every 30 min to discuss current status, what is being done and why it matters. 
+3. If you get stuck we are here to help.
+4. Instructions & template for submitting will be avalible during day.
+
+### Notebooks
+Here is notebooks covering a couple of enviorments & algoritms and can be used as fundation.
+ [Bipedalwalker-V2_TD3_Tensorboard](https://colab.research.google.com/drive/1Zyn9Q_Gf3KnVIhdl9t2ond5IjJNaTriL#scrollTo=9cQ_Nt7d1NOP&uniqifier=1)
+ [Lunar-Lander_TD3_Tensorboard](https://colab.research.google.com/drive/1_ZndTOt88TuXG2imZLb3ylU2C3nH9T-i)
 
 
 ### Material 
-1. [https://github.com/openai/gym/wiki/BipedalWalker-v2](https://github.com/openai/gym/wiki/BipedalWalker-v2)
-2. [https://towardsdatascience.com/teach-your-ai-how-to-walk-5ad55fce8bca](https://towardsdatascience.com/teach-your-ai-how-to-walk-5ad55fce8bca)
-3. [https://gym.openai.com/envs/BipedalWalker-v2/](https://gym.openai.com/envs/BipedalWalker-v2/)
-4. [https://github.com/openai/gym/wiki/Leaderboard](https://github.com/openai/gym/wiki/Leaderboard)
+
+1. [https://towardsdatascience.com/teach-your-ai-how-to-walk-5ad55fce8bca](https://towardsdatascience.com/teach-your-ai-how-to-walk-5ad55fce8bca)
+2. [https://github.com/araffin/rl-baselines-zoo/tree/master/hyperparams](https://github.com/araffin/rl-baselines-zoo/tree/master/hyperparams)
+3. [https://github.com/openai/gym/wiki/Leaderboard](https://github.com/openai/gym/wiki/Leaderboard)
 
 
-### How we messure results 
- [https://github.com/openai/gym/wiki/Leaderboard](https://github.com/openai/gym/wiki/Leaderboard)
+
 
 
 
