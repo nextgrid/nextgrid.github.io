@@ -4,7 +4,7 @@
  # . | | /| / / _ \/ /  / /     
  # . | |/ |/ / // / /__/ /__    
  # . |__/|__/____/____/____/    
- # .  S01E06 by Nextgrid.ai 👾
+ # .  S01E07 by Nextgrid.ai 👾
  #############################################    
  # Reinforcement learning 
  #############################################
@@ -39,6 +39,7 @@ For example, cartpole is solved when score is above 190, so if team has score 95
 1. Use technology of your coice 
 2. We recommend checking out [https://stable-baselines.readthedocs.io/](https://stable-baselines.readthedocs.io/)
 3. We recommend to use machine that we will provide to you. It is a google cloud VM with 16 CPU's and 60 GB of RAM. 1 machine per team, leaders will get credentials to it. 
+   You will get IP and if you use `http://{IP}` you will get to the visualization tools called Tensorboard and if you use `https://{IP}` you will get Jupyter-Lab environment.
 4. Another hardware option is to use [google colab](https://colab.research.google.com/)
 
 **P. S.** If you have some special needs just ask @Jacek Płocharczyk and he will make whatever machine you want :)
@@ -46,7 +47,7 @@ For example, cartpole is solved when score is above 190, so if team has score 95
 
 ### Instructions
 
-1. Pick a enviorment at https://github.com/openai/gym/wiki/Leaderboard
+1. Pick a enviorment from the list above.
 2. Work as a team, pause for 5 min every 30 min to discuss current status, what is being done and why it matters. 
 3. If you get stuck we are here to help.
 4. Instructions & template for submitting will be avalible during day.
