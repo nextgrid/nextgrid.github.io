@@ -33,6 +33,17 @@ Today the ranking includes the following tasks (List will be expanded in next ev
 Extra 20% points to each task in case when team will make something special, like good presentation with insights or non-standard solution of the problem.
 In case of unsucessfull trial, team still can get points proportional to their result.
 For example, cartpole is solved when score is above 190, so if team has score 95 (half of solved) it will get half of the points for this task - 0.5 pt.
+### Environments
+1. `CartPole-v0`, required reward: 190.
+2. `LunarLander-v2`, required reward: 200.
+3. `Hopper-v2`, required reward: 3800.   
+   Requires MuJoCo (use remote server or reach organizers if you want to set it up locally)
+3. `HalfCheetah-v2`, required reward: 4800.  
+   Requires MuJoCo (use remote server or reach organizers if you want to set it up locally)
+2. `BipedalWalker-v3`, required reward: 300.
+
+
+
 
 ### Technologies 
 
