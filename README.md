@@ -10,7 +10,7 @@
  #############################################
 ```
 # SUBMIT RESULT ON THIS LINK 
-[https://docs.google.com/forms/d/e/1FAIpQLSeqkvS6fU6VbiEYE1IL505W_G4tdA1ko7qOaZUm238c9UjYgg/viewform](https://docs.google.com/forms/d/e/1FAIpQLSeqkvS6fU6VbiEYE1IL505W_G4tdA1ko7qOaZUm238c9UjYgg/viewform)
+[https://docs.google.com/forms/d/1xSbZa1xWPHhW_4TdLmbQRIMgz5pCGydrp9qsIbe4Dho](https://docs.google.com/forms/d/1xSbZa1xWPHhW_4TdLmbQRIMgz5pCGydrp9qsIbe4Dho)
 
 # Warsaw Deep Learning Labs Episode #7
 
