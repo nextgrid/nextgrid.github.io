@@ -61,6 +61,10 @@ Here is notebooks covering a couple of enviorments & algoritms and can be used a
  [Lunar-Lander_TD3_Tensorboard](https://colab.research.google.com/drive/1_ZndTOt88TuXG2imZLb3ylU2C3nH9T-i)    
  [Pendulum_TD3](https://colab.research.google.com/drive/1_UhnDQE8NgSYGpUEAj0xgYI8Qvh7a6HK)
 
+### Remote development over SSH
+Each team has dedicated Virtual Machine hosted on Google Cloud Platform. You can work directly using SSH using VSCode or other IDE.
+But please note that Centralny Dom Technologii has a firewall and port 22 (default for SSH) is blocked so you need to use your own mobile internet.  
+Ask organizers for the credentials!
 
 ### Material 
 
