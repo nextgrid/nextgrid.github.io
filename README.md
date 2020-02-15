@@ -21,12 +21,27 @@ Feel free to jump in on our event [Slack channel](https://join.slack.com/t/warsa
 ### Approach
 We believe that people learn best by actuall getting hands on. Today is the seventh mini hackaton event and the mission is to take over OpenAi Leaderboard 
 
+### Grading
+Several tasks will be graded and starting from this event we will maintain leaderboard on our page with the best teams.
+Today the ranking includes the following tasks (List will be expanded in next events):
+- CartPole - 1 pt.
+- LunarLander - 4 pt.
+- Hopper - 6 pt.
+- HalfCheetah - 12 pt.
+- BipedalWalker - 24 pt. 
+
+Extra 20% points to each task in case when team will make something special, like good presentation with insights or non-standard solution of the problem.
+In case of unsucessfull trial, team still can get points proportional to their result.
+For example, cartpole is solved when score is above 190, so if team has score 95 (half of solved) it will get half of the points for this task - 0.5 pt.
+
 ### Technologies 
 
 1. Use technology of your coice 
 2. We recommend checking out [https://stable-baselines.readthedocs.io/](https://stable-baselines.readthedocs.io/)
 3. We recommend to use machine that we will provide to you. It is a google cloud VM with 16 CPU's and 60 GB of RAM. 1 machine per team, leaders will get credentials to it. 
 4. Another hardware option is to use [google colab](https://colab.research.google.com/)
+
+**P. S.** If you have some special needs just ask @Jacek Płocharczyk and he will make whatever machine you want :)
 
 
 ### Instructions
