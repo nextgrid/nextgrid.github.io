@@ -65,7 +65,7 @@ For example, cartpole is solved when score is above 190, so if team has score 95
 4. Instructions & template for submitting will be avalible during day.
 
 ### Notebooks
-Here is notebooks covering a couple of enviorments & algoritms and can be used as fundation.
+Here is notebooks covering a couple of enviorments & algoritms and can be used as fundation.  
  [Stable-baselines_Walk-through](https://colab.research.google.com/drive/1vuBn_JJV9Xyd4O_RpCMqk8Iv_ua9Zq_N)  
  [Video-recording_cheatsheet](https://colab.research.google.com/drive/1i48t8xkoTKYO4gcR4Sn8T7bGxBy0T4OH)  
  [Bipedalwalker-V2_TD3_Tensorboard](https://colab.research.google.com/drive/1Zyn9Q_Gf3KnVIhdl9t2ond5IjJNaTriL)  
