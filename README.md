@@ -66,12 +66,12 @@ For example, cartpole is solved when score is above 190, so if team has score 95
 4. Instructions & template for submitting will be avalible during day.
 
 ### Notebooks
-Here is notebooks covering a couple of enviorments & algoritms and can be used as fundation.
- [Github with notebooks](https://github.com/nextgrid/notebooks)  \
- [Stable-baselines walk-through](https://colab.research.google.com/drive/1vuBn_JJV9Xyd4O_RpCMqk8Iv_ua9Zq_N)
+Here is notebooks covering a couple of enviorments & algoritms and can be used as fundation.   
+ [Github with notebooks](https://github.com/nextgrid/notebooks)   
+ [Stable-baselines walk-through](https://colab.research.google.com/drive/1vuBn_JJV9Xyd4O_RpCMqk8Iv_ua9Zq_N)  
  [Video-recording_cheatsheet](https://colab.research.google.com/drive/1i48t8xkoTKYO4gcR4Sn8T7bGxBy0T4OH)  
  [Bipedalwalker-V2_TD3_Tensorboard](https://colab.research.google.com/drive/1Zyn9Q_Gf3KnVIhdl9t2ond5IjJNaTriL)  
- [Lunar-Lander_TD3_Tensorboard](https://colab.research.google.com/drive/1_ZndTOt88TuXG2imZLb3ylU2C3nH9T-i)    
+ [Lunar-Lander_TD3_Tensorboard](https://colab.research.google.com/drive/1_ZndTOt88TuXG2imZLb3ylU2C3nH9T-i)  
  [Pendulum_TD3](https://colab.research.google.com/drive/1_UhnDQE8NgSYGpUEAj0xgYI8Qvh7a6HK)  
 
 ### Remote development over SSH
