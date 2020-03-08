@@ -52,7 +52,7 @@ For example, cartpole is solved when score is above 190, so if team has score 95
 2. We recommend checking out [https://stable-baselines.readthedocs.io/](https://stable-baselines.readthedocs.io/) and our [repo](https://github.com/nextgrid/notebooks) where we will maintain notebooks with useful info.
 3. We recommend to use machine that we will provide to you. It is a google cloud VM with 16 CPU's and 60 GB of RAM.   
    1 machine per team, leaders will get credentials to it.  
-   You will get IP and if you use `{IP}:8888` you will get to the visualization tools called Tensorboard and if you use `{IP}6006` you will get Jupyter-Lab environment.
+   You will get IP and if you use `{IP}:8888` you will get to the visualization tools called Tensorboard and if you use `{IP}:6006` you will get Jupyter-Lab environment.
 4. Another hardware option is to use [google colab](https://colab.research.google.com/)
 
 **P. S.** If you have some special needs just ask us and he will make whatever machine you want :)
