@@ -10,7 +10,7 @@
  #############################################
 ```
 # SUBMIT RESULT ON THIS LINK 
-Soon.
+[Google form](https://docs.google.com/forms/d/1ugf0AQbjQHyv_t04F5NynRFKKVdbic__GGveinDgTMg/edit)
 
 # Warsaw Deep Learning Labs Episode #8
 
