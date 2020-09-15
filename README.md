@@ -1,36 +1,19 @@
 # IBM Think Digital Summit 2020 Code Cafe RL experince
 
+![image of cat](https://nextgrid.ai/wp-content/uploads/2020/06/01_Think_Gray_1400x1400.jpg "Think")
 Presented by [Nextgrid](https://nextgrid.ai)
 
-<img align="left" width="100%" height="auto" src="https://nextgrid.ai/wp-content/uploads/2020/08/ibm-think-2020.jpg"/>
-
-<div style="max-width:700px;">
-
-# Reinforcment Learning Hands-on
+## Reinforcment Learning Hands-on
 
 Reinforcement learning is a machine learning technique that learns how to maximize a reward by taking actions. A dog might try to learn how to maximize belly rubs through its barking, or a cat might try to learn how to maximize being annoying through its jumping. Both these animals are **AGENTS** taking **ACTIONS** based on their current **STATE**, trying to maximize the **REWARD**.
 
-### Goal = maximize reward
+## Goal = maximize reward
 
 The goal of the **AGENT** is to **maximize its total reward**. It does this by adding the maximum reward attainable from future states to the reward for achieving its current state, effectively influencing the current action by the potential future reward. This potential reward is a weighted sum of the expected values of the rewards of all future steps starting from the current state.
 
-<img align="left" width="500" hight="auto" src="https://nextgrid.ai/wp-content/uploads/2020/08/RL.png"></img>
-
-<div style="clear:left;"></div>
-
-<br/>
-
----
-
-# SUBMIT RESULT ON THIS LINK
+## SUBMIT RESULT ON THIS LINK
 
 [Google form](https://docs.google.com/forms/d/1ugf0AQbjQHyv_t04F5NynRFKKVdbic__GGveinDgTMg/edit)
-
-# Warsaw Deep Learning Labs Episode #8
-
-Here you will find instructions and relevant information for the event. Don't hesitate to reach out organizers with any kind of questions.
-
-Feel free to jump in on our event [Slack channel](https://join.slack.com/t/warsawdeeplea-lin3168/shared_invite/enQtODEyMjA1NTE1NjA3LWQ0Y2Q2OGUwNzBmMjljMDA1NGZmMWFmZTEzZWRkZjlkOTQ1YTQ4OTI4MzdhMDBmNjhmOWEyZDkzNDQ4MTQ5Njg) where @Misha & @M are avalible to answer questions and help out with issues.
 
 ### Approach
 
