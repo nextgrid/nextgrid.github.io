@@ -16,8 +16,8 @@ This is an introductory reinforcment learning workshop created by [Mathias Åsbe
 
 ## Instructions
 
-1. Download notebook [here](https://#)
-2. Sign in to your IBM account (don't have IBM cloud account yet, follow instructions [here](https://#))
+1. Download notebook [here](https://github.com/nextgrid/nextgrid.github.io/blob/master/ibm_cartpole_pytorch_gym_clean_test.ipynb)
+2. Sign in to your IBM account (don't have IBM cloud account yet, follow instructions [here](https://ertogrul.github.io/1-PrepareLab/))
 3. Navigate to Watson studio
 4. In Watson studio click "Add to project +" and choose notebook
 5. Click "From file" and upload the notebook from step 1.
