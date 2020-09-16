@@ -16,7 +16,7 @@ This is an introductory reinforcment learning workshop created by [Mathias Åsbe
 
 ## Instructions
 
-1. Download notebook [here](https://github.com/nextgrid/nextgrid.github.io/blob/master/ibm_cartpole_pytorch_gym_clean_test.ipynb)
+1. Download notebook [here](https://www.dropbox.com/s/i97jk7zcfstpxor/cartpole_stable-baselines_pytorch_gym.ipynb?dl=1)
 2. Sign in to your IBM account (don't have IBM cloud account yet, follow instructions [here](https://ertogrul.github.io/1-PrepareLab/))
 3. Navigate to Watson studio
 4. In Watson studio click "Add to project +" and choose notebook
