@@ -12,11 +12,11 @@ This is an introductory reinforcment learning workshop created by [Mathias Åsbe
 
 - Introduction with Mathias - 15 min
 - Introduction to reinforcement learning with Tomasz - 15
-- Hands-on reinforcment learning on Watson Studio with Tomasz - 30 min
+- Hands-on reinforcment learning on Watson Studio with Tomasz - 30-45 min
 
 ## Instructions
 
-1. Download notebook [here](https://www.dropbox.com/s/i97jk7zcfstpxor/cartpole_stable-baselines_pytorch_gym.ipynb?dl=1)
+1. Download notebook [here](https://www.dropbox.com/s/ghocq7slv3atkuv/IBM-Summit-RL-Hands-on.ipynb?dl=0)
 2. Sign in to your IBM account (don't have IBM cloud account yet, follow instructions [here](https://ertogrul.github.io/1-PrepareLab/))
 3. Navigate to Watson studio
 4. In Watson studio click "Add to project +" and choose notebook
