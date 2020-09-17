@@ -4,6 +4,8 @@ version 0.01, 2020.09.15
 
 This is an introductory reinforcment learning workshop created by [Mathias Åsberg](https://www.linkedin.com/in/imathias/) and [Tomasz Brzozowski](https://www.linkedin.com/in/tomasz-brzozowski/) from [Nextgrid](https://nextgrid.ai).
 
+[Sandra Kublik](https://www.linkedin.com/in/sandrakublik/), [Marcin Laskowski](https://www.linkedin.com/in/marcin-laskowski/) & [Mateusz Bajorek](https://www.linkedin.com/in/mateusz-bajorek-1b8727163/)
+
 ![image of IBM Think Summit](https://nextgrid.ai/wp-content/uploads/2020/06/16_Think_Blue_1400x1400.jpg "Think")
 
 ## Agenda
