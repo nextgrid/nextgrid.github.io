@@ -21,9 +21,10 @@ This is an introductory reinforcment learning workshop created by [Mathias Åsbe
 1. Download notebook [here](https://www.dropbox.com/s/5qfhgfahxpzq4ny/IBM-Summit-RL-Hands-on-v1-4.ipynb?dl=1)
 2. Sign in to your IBM account (don't have IBM cloud account yet, follow instructions [here](https://ertogrul.github.io/1-PrepareLab/))
 3. Navigate to Watson studio
-4. In Watson studio click "Add to project +" and choose notebook
+4. In Watson studio click the blue button "Add to project +" and choose Notebook
 5. Click "From file" and upload the notebook from step 1.
 6. Click "Create"
+7. Now you are set
 
 ### Links
 
