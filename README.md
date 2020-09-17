@@ -20,11 +20,13 @@ This is an introductory reinforcment learning workshop created by [Mathias Åsbe
 
 1. Download notebook [here](https://www.dropbox.com/s/5qfhgfahxpzq4ny/IBM-Summit-RL-Hands-on-v1-4.ipynb?dl=1)
 2. Sign in to your IBM account (don't have IBM cloud account yet, follow instructions [here](https://ertogrul.github.io/1-PrepareLab/))
-3. Navigate to Watson studio
-4. In Watson studio click the blue button "Add to project +" and choose Notebook
-5. Click "From file" and upload the notebook from step 1.
-6. Click "Create"
-7. Now you are set
+3. Navigate to Watson studio () [!navigate](https://nextgrid.ai/wp-content/uploads/2020/09/1.jpg)
+4. On new screen click "Get Started" [!dasd](https://nextgrid.ai/wp-content/uploads/2020/09/2.jpg)
+5. In Watson studio click the the burget menu at top left and choose "View all projects" [! dasd](https://nextgrid.ai/wp-content/uploads/2020/09/3.jpg)
+6. Click "New Project" [! dasd](https://nextgrid.ai/wp-content/uploads/2020/09/22.jpg)
+7. Click "From file" and upload the notebook from step 1.
+8. Click "Create empty project" [! dasd](https://nextgrid.ai/wp-content/uploads/2020/09/77.jpg)
+9. Now you are set
 
 ### Links
 
