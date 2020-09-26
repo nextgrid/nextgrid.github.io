@@ -6,6 +6,7 @@ version: 2020.09.26
 
 ## Links
 
+[Next.js Boilerplate](https://github.com/nextgrid/dll-next.js-boilerplate)  
 [Syndic.ai](https://syndic.ai)  
 [Syndic.ai dashboard](https://app-prd.syndic.ai/)  
 [Models](https://github.com/syndicai/models)
