@@ -2,9 +2,15 @@
 
 version: 2020.09.26
 
-[Join slack](https://join.slack.com/t/deep-learning-labs/shared_invite/zt-dc6n3wes-pbVsHDRxUhcPVnoj5f4~og)
+[Slack](https://join.slack.com/t/deep-learning-labs/shared_invite/zt-dc6n3wes-pbVsHDRxUhcPVnoj5f4~og)
 
 ## Links
 
-[https://app-prd.syndic.ai/](https://app-prd.syndic.ai/)
+[Syndic.ai](https://syndic.ai)  
+[Syndic.ai dashboard](https://app-prd.syndic.ai/)  
 [Models](https://github.com/syndicai/models)
+
+## Nextgrid
+
+[Deep Learning Labs](https://nextgrid.ai/dll)  
+[AI Seed program](https://nextgrid.ai/seed)
